@@ -4,7 +4,7 @@ Just a repo where I place my JavaScript leet code solutions and rationale on cer
 
 ## Leetcode 75 Solutions
 
-[Apply Transform Over Each Element in Array](./leetcode_75/transformEachArrayElement/README.md)
+[Apply Transform Over Each Element in Array](./leetcode_75/transformEachArrayElement)
 
 [Two Sum](./leetcode_75/twoSum)
 
