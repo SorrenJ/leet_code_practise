@@ -8,7 +8,7 @@ we need to specify the different nums contained in the array
 
 how do we distinguish the different numbers?
 
-we push the numbers into a new array and we can use !includes to see if the number is already included
+we use filter() to create new array and remove any duplicates
 
 after this we iterate through the new array against nums arrays to count
 
