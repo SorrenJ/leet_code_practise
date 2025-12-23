@@ -1,0 +1,26 @@
+{
+  "name": "leet_code_practise",
+  "version": "1.0.0",
+  "description": "Just a repo where I place my JavaScript leet code solutions and rationale on certain problems. Feel free to star for your reference.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorrenJ/leet_code_practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SorrenJ/leet_code_practise/issues"
+  },
+  "homepage": "https://github.com/SorrenJ/leet_code_practise#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
