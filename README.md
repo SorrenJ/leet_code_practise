@@ -4,11 +4,11 @@ Just a repo where I place my JavaScript leet code solutions and rationale on cer
 
 ## Leetcode 150 Solutions
 
-[Ransom Note](./leetcode_150\ransomNote)
+[Ransom Note](./leetcode_150/ransomNote)
 
 [Best Stock Option](./leetcode_150/bestStock)
 
-[First Index](./leetcode_150\FirstIndex)
+[First Index](./leetcode_150/FirstIndex)
 
 [Length of last word](./leetcode_150/lensLastWord)
 
